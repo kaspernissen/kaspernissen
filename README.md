@@ -24,12 +24,12 @@ Date: August 20th
 ### Past
 **[Tech Talks: Introduction to GitOps & GitOps Toolkit (moderator)](https://www.meetup.com/Cloud-Native-Aarhus/events/271346017/)**  
 _Cloud Native Nordics virtual event_  
-Date: June 17, 2020
+Date: June 17, 2020  
 📺  [Recording](https://youtu.be/qQBtSkgl7tI)
 
 **[Tech Talks: Mettles journey towards throw-away clusters with Steve Wade (host)](https://www.meetup.com/Cloud-Native-Aarhus/events/271221986/)**  
 _Cloud Native Nordics virtual event_  
-Date: June 17, 2020
+Date: June 17, 2020  
 📺  [Recording](https://youtu.be/zSKCHZ3wpFM)
 
 **[Tech Talks: Prometheus - The Current State and the Road Ahead with Julius Volz (moderator)](https://www.meetup.com/Cloud-Native-Aarhus/events/271030558/)**  
