@@ -23,6 +23,10 @@ Date: August 20th
 
 ### Past
 
+**[GitOps med Kasper Nissen (in danish)](https://nine.dk/podcast/gitops-med-kasper-nissen/)**  
+_Let's start at @Nine Podcast_   
+📺  [Recording](https://youtu.be/7YOnK0N39Bw)
+
 **GitOps: Operation by Pull Request**  
 _Cloud Native Copenhagen, Cloud Native Aalborg, Cloud Native Aarhus meetups_  
 Date: 
@@ -30,28 +34,57 @@ Date:
 **[Building and Scaling Cloud Native Nordics; Tips, Tricks, and Lessons Learned (with Lucas Käldström)](https://kccncna19.sched.com/event/UaWl/building-and-scaling-cloud-native-nordics-tips-tricks-and-lessons-learned-lucas-kaldstrom-independent-kasper-nissen-lunar)**  
 _CloudNativeCon+KubeCon San Diego 2019_  
 **Date:** November 21st 2019  
-📺 [Recording](https://www.youtube.com/watch?v=kHonSTlbHEc) 
+📺  [Recording](https://www.youtube.com/watch?v=kHonSTlbHEc) 
 
 **Should Developers Care About Dockerfiles and Kubernetes resources?**  
 _Cloud Native Aarhus_  
 **Date:**   
 
-
 **[Two years in Production with Kubernetes - an experience report](https://containerdays.sched.com/event/Q4Rr/two-years-in-production-with-kubernetes-an-experience-report)**  
 _ContainerDays Hamburg 2019_  
 **Date:** June 26 - 2019  
-📺 [Recording](https://youtu.be/q6Nvm2Jhf1s) | 🖼 [Slides](slides/two_years_in_production_with_kubernetes_container_days_hamburg.pdf)
+📺  [Recording](https://youtu.be/q6Nvm2Jhf1s) | 🖼  [Slides](slides/two_years_in_production_with_kubernetes_container_days_hamburg.pdf)
 
 **[Cloud Native CI/CD using GitOps](https://www.devopsdays.org/events/2019-copenhagen/program/kasper-nissen/)**  
 _DevOpsDaysCPH, Copenhagen_  
 **Date:** April 3, 2019
 
+**[Building a Fintech Startup on Cloud Native Technology](https://oftf18.sched.com/event/G4Mr?iframe=no)**  
+_Open Fintech Forum 2018, New York City_  
+**Date:** October 11, 2018
+
+**[A tale of 1,5 years with Cloud Native Technologies at Lunar Way](https://www.meetup.com/GOTO-Nights-CPH/events/252461866/)**  
+_GOTO Night CPH_  
+**Date:** August 29, 2018
+
+**[Lunar Way's journey towards Cloud Native utopia](https://gotocph.com/2017/sessions/237)**  
+_GOTO Copenhagen_  
+**Date:** October 1, 2017
+
+**[Lunar Way's journey towards Cloud Native utopia](https://skillsmatter.com/skillscasts/10508-lunar-ways-journey-towards-cloud-native-utopia)**  
+_CloudNative London @skillsmatter_  
+**Date:** 27th September 2017
+
+**Lunar Way and the Cloud Native "stack"**  
+_Cloud Native Aarhus_
+
+**Container Orchestration on AWS**  
+_AWS Meetup Group Aarhus_
+
+**Monitoring with Prometheus**  
+_Code:U Automation Nigth Aarhus_
+
+**Software Is eating the world**  
+_IT Minds Mindblown_
+
+
 **[KubeCloud: Tangible Cloud Computing with Kasper Nissen and Martin Jensen](https://softwareengineeringdaily.com/2016/07/03/kubecloud-tangible-cloud-computing-with-kasper-nissen-and-martin-jensen/)**  
 _Software Engineering Daily Podcast_  
 **Date:** July 3, 2016  
-💿 [Recording](https://softwareengineeringdaily.com/2016/07/03/kubecloud-tangible-cloud-computing-with-kasper-nissen-and-martin-jensen/)
+💿  [Recording](https://softwareengineeringdaily.com/2016/07/03/kubecloud-tangible-cloud-computing-with-kasper-nissen-and-martin-jensen/)
 
-
+**Google Cloud Platform and Kubernetes**  
+_Google Developer Group Aarhus_
 
 ## Bio
 
