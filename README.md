@@ -22,14 +22,33 @@ _CloudNativeCon+KubeCon EU Virtual 2020_
 Date: August 20th
 
 ### Past
+**[Tech Talks: Introduction to GitOps & GitOps Toolkit (moderator)](https://www.meetup.com/Cloud-Native-Aarhus/events/271346017/)**  
+_Cloud Native Nordics virtual event_  
+Date: June 17, 2020
+📺  [Recording](https://youtu.be/qQBtSkgl7tI)
+
+**[Tech Talks: Mettles journey towards throw-away clusters with Steve Wade (host)](https://www.meetup.com/Cloud-Native-Aarhus/events/271221986/)**  
+_Cloud Native Nordics virtual event_  
+Date: June 17, 2020
+📺  [Recording](https://youtu.be/zSKCHZ3wpFM)
+
+**[Tech Talks: Prometheus - The Current State and the Road Ahead with Julius Volz (moderator)](https://www.meetup.com/Cloud-Native-Aarhus/events/271030558/)**  
+_Cloud Native Nordics virtual event_  
+Date: June 10, 2020  
+📺  [Recording](https://youtu.be/bH78UXb1aVE)
+
+**[Cloud Native Nordics Stories - a virtual Cloud Native sharing session](https://www.meetup.com/Cloud-Native-Aarhus/events/269621651/)**  
+_Cloud Native Nordics virtual event_  
+Date: March 26, 2020  
+📺  [Recording](https://youtu.be/J0f28fq4aS0)
 
 **[GitOps med Kasper Nissen (in danish)](https://nine.dk/podcast/gitops-med-kasper-nissen/)**  
 _Let's start at @Nine Podcast_   
 📺  [Recording](https://youtu.be/7YOnK0N39Bw)
 
 **GitOps: Operation by Pull Request**  
-_Cloud Native Copenhagen, Cloud Native Aalborg, Cloud Native Aarhus meetups_  
-Date: 
+_[Cloud Native Copenhagen](https://www.meetup.com/Cloud-Native-Copenhagen/events/266225732/), Cloud Native Aalborg, Cloud Native Aarhus meetups_  
+Date: December 10, 11, 18
 
 **[Building and Scaling Cloud Native Nordics; Tips, Tricks, and Lessons Learned (with Lucas Käldström)](https://kccncna19.sched.com/event/UaWl/building-and-scaling-cloud-native-nordics-tips-tricks-and-lessons-learned-lucas-kaldstrom-independent-kasper-nissen-lunar)**  
 _CloudNativeCon+KubeCon San Diego 2019_  
