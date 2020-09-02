@@ -13,6 +13,9 @@ Feel free to reach out if you have an inquiry.
 
 ### Upcoming
 
+Nothing scheduled...
+
+### Past
 **[Panel: CNCF Ambassadors: Building the Cloud Native Community](https://kccnceu20.sched.com/event/aDjR/panel-cncf-ambassadors-building-the-cloud-native-community-ihor-dvoretskyi-cncf-kasper-nissen-lunar-alison-dowdney-weaveworks-jessica-andersson-meltwater-saiyam-pathak) –  Ihor Dvoretskyi (CNCF), Kasper Nissen (Lunar), Alison Dowdney (Weaveworks), Jessica Andersson (Meltwater) & Saiyam Pathak**   
 _CloudNativeCon+KubeCon EU Virtual 2020_  
 Date: August 18th 2020
@@ -21,7 +24,7 @@ Date: August 18th 2020
 _CloudNativeCon+KubeCon EU Virtual 2020_    
 Date: August 20th
 
-### Past
+
 **[Tech Talks: Introduction to GitOps & GitOps Toolkit (moderator)](https://www.meetup.com/Cloud-Native-Aarhus/events/271346017/)**  
 _Cloud Native Nordics virtual event_  
 Date: June 17, 2020  
