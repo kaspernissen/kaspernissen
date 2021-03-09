@@ -36,7 +36,7 @@ Date: February 18th 2021
 
 **[Panel: CNCF Ambassadors: Building the Cloud Native Community](https://kccnceu20.sched.com/event/aDjR/panel-cncf-ambassadors-building-the-cloud-native-community-ihor-dvoretskyi-cncf-kasper-nissen-lunar-alison-dowdney-weaveworks-jessica-andersson-meltwater-saiyam-pathak) –  Ihor Dvoretskyi (CNCF), Kasper Nissen (Lunar), Alison Dowdney (Weaveworks), Jessica Andersson (Meltwater) & Saiyam Pathak**   
 _CloudNativeCon+KubeCon EU Virtual 2020_  
-Date: August 18th 2020
+Date: August 18th 2020  
 📺  [Recording](https://youtu.be/_Bm0TELIKaU)
 
 **[Panel: End User Community Adoption of Cloud Native Principles & Lessons Learned](https://kccnceu20.sched.com/event/ZeqU/panel-end-user-community-adoption-of-cloud-native-principles-lessons-learned-ken-owens-mastercard-lee-mills-spotify-jennifer-strejevitch-conde-nast-kasper-nissen-lunar-cheryl-hung-cloud-native-computing-foundation) - Ken Owens (Mastercard), Lee Mills (Spotify), Jennifer Strejevitch (Condé Nast), Kasper Nissen (Lunar), & Cheryl Hung (Cloud Native Computing Foundation)**  
