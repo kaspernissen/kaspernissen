@@ -110,7 +110,7 @@ _Google Developer Group Aarhus_
 
 ## Bio
 
-Kasper is a Cloud Native Computing Foundation Ambassador and organizes meetups in Denmark. He works as a Site Reliability Engineer at Lunar, previously worked as a DevOps & Infrastructure Consultant at LEGO. Kasper wrote his master thesis, “KubeCloud - A Small Scale Cloud Computing Environment”, on how Universities could leverage small-scale cloud environments built out of Raspberry Pis running Kubernetes
+Kasper is a Cloud Native Computing Foundation Ambassador, and co-founder of the Nordic meetup alliances, Cloud Native Nordics, where he also serves as Community Lead. He works as Lead Platform Engineer at Lunar. Kasper wrote his master thesis, “KubeCloud - A Small Scale Cloud Computing Environment”, on how Universities could leverage small-scale cloud environments built out of Raspberry Pis running Kubernetes.
 
 ### Social
 * Twitter - [@phennex](https://twitter.com/phennex)
