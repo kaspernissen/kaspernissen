@@ -1,7 +1,5 @@
 # Kasper Nissen
 
-__WORK IN PROGRESS__
-
 This repository tracks my public speaking activities. You can find links to all recordings, slides, bios, etc.
 
 Feel free to reach out if you have an inquiry. 
@@ -12,17 +10,39 @@ Feel free to reach out if you have an inquiry.
 ## Activities
 
 ### Upcoming
+**[Humio workshop - demo session](https://www.humio.com/advanced-log-management-course-strategies-techniques-and-tactics)**   
+_Humio Advanced log management course: strategies, techniques, and tactics_  
+Date: March 11th 2021  
 
-Nothing scheduled...
+**[Shifting Security Left While Building A Cloud Native Bank](https://www.thedevopsconference.com/speakers#kasper+nissen)**   
+_The DevOps Conference 2021_  
+Date: March 23rd 2021
+
+**[Shifting Security Left While Building A Cloud Native Bank](https://nordicitsecurity.com/)**   
+_Nordic IT Security Conference - The Financial Institutions Edition_  
+Date: April 15-16 2021 
+
 
 ### Past
+**[Host: Cloud Native Security with Matt Jarvis and Dan "POP" Papandrea](https://community.cncf.io/events/details/cncf-cloud-native-nordics-presents-cloud-native-security-with-matt-jarvis-and-dan-pop-papandrea/) –  Matt Jarvis (Snyk), Dan "POP" Papandrea (Sysdig), Kasper Nissen (Lunar), Rasmus Steiniche (neurospace)**   
+_Cloud Native Nordics Virtual Event_  
+Date: March 2nd 2021  
+📺  [Recording](https://youtu.be/hxwnlAnnv0I)
+
+**[Host: Kubernetes Community with Joe Beda](https://community.cncf.io/events/details/cncf-aarhus-presents-kubernetes-community-interview-with-joe-beda/) –  Joe Beda (VMWare), Kasper Nissen (Lunar), Rasmus Steiniche (neurospace)**   
+_Cloud Native Nordics Virtual Event_  
+Date: February 18th 2021  
+📺  [Recording](https://youtu.be/BI2gHB0huD8)
+
 **[Panel: CNCF Ambassadors: Building the Cloud Native Community](https://kccnceu20.sched.com/event/aDjR/panel-cncf-ambassadors-building-the-cloud-native-community-ihor-dvoretskyi-cncf-kasper-nissen-lunar-alison-dowdney-weaveworks-jessica-andersson-meltwater-saiyam-pathak) –  Ihor Dvoretskyi (CNCF), Kasper Nissen (Lunar), Alison Dowdney (Weaveworks), Jessica Andersson (Meltwater) & Saiyam Pathak**   
 _CloudNativeCon+KubeCon EU Virtual 2020_  
 Date: August 18th 2020
+📺  [Recording](https://youtu.be/_Bm0TELIKaU)
 
 **[Panel: End User Community Adoption of Cloud Native Principles & Lessons Learned](https://kccnceu20.sched.com/event/ZeqU/panel-end-user-community-adoption-of-cloud-native-principles-lessons-learned-ken-owens-mastercard-lee-mills-spotify-jennifer-strejevitch-conde-nast-kasper-nissen-lunar-cheryl-hung-cloud-native-computing-foundation) - Ken Owens (Mastercard), Lee Mills (Spotify), Jennifer Strejevitch (Condé Nast), Kasper Nissen (Lunar), & Cheryl Hung (Cloud Native Computing Foundation)**  
 _CloudNativeCon+KubeCon EU Virtual 2020_    
-Date: August 20th
+Date: August 20th  
+📺  [Recording](https://youtu.be/sAiOqSmN-B0)
 
 
 **[Tech Talks: Introduction to GitOps & GitOps Toolkit (moderator)](https://www.meetup.com/Cloud-Native-Aarhus/events/271346017/)**  
