@@ -10,13 +10,7 @@ Feel free to reach out if you have an inquiry.
 ## Activities
 
 ### Upcoming
-**[Humio workshop - demo session](https://www.humio.com/advanced-log-management-course-strategies-techniques-and-tactics)**   
-_Humio Advanced log management course: strategies, techniques, and tactics_  
-Date: March 11th 2021  
 
-**[Shifting Security Left While Building A Cloud Native Bank](https://www.thedevopsconference.com/speakers#kasper+nissen)**   
-_The DevOps Conference 2021_  
-Date: March 23rd 2021
 
 **[Shifting Security Left While Building A Cloud Native Bank](https://nordicitsecurity.com/)**   
 _Nordic IT Security Conference - The Financial Institutions Edition_  
@@ -24,6 +18,14 @@ Date: April 15-16 2021
 
 
 ### Past
+**[Shifting Security Left While Building A Cloud Native Bank](https://www.thedevopsconference.com/speakers#kasper+nissen)**   
+_The DevOps Conference 2021_  
+Date: March 23rd 2021
+
+**[Humio workshop - demo session](https://www.humio.com/advanced-log-management-course-strategies-techniques-and-tactics)**   
+_Humio Advanced log management course: strategies, techniques, and tactics_  
+Date: March 11th 2021  
+
 **[Host: Cloud Native Security with Matt Jarvis and Dan "POP" Papandrea](https://community.cncf.io/events/details/cncf-cloud-native-nordics-presents-cloud-native-security-with-matt-jarvis-and-dan-pop-papandrea/) –  Matt Jarvis (Snyk), Dan "POP" Papandrea (Sysdig), Kasper Nissen (Lunar), Rasmus Steiniche (neurospace)**   
 _Cloud Native Nordics Virtual Event_  
 Date: March 2nd 2021  
@@ -130,7 +132,7 @@ _Google Developer Group Aarhus_
 
 ## Bio
 
-Kasper is a Cloud Native Computing Foundation Ambassador, and co-founder of the Nordic meetup alliances, Cloud Native Nordics, where he also serves as Community Lead. He works as Lead Platform Engineer at Lunar. Kasper wrote his master thesis, “KubeCloud - A Small Scale Cloud Computing Environment”, on how Universities could leverage small-scale cloud environments built out of Raspberry Pis running Kubernetes.
+Kasper is a Cloud Native Computing Foundation Ambassador, and co-founder of the Nordic meetup alliances, Cloud Native Nordics, where he also serves as Community Lead. He works as Lead Platform Architect at Lunar. Kasper wrote his master thesis, “KubeCloud - A Small Scale Cloud Computing Environment”, on how Universities could leverage small-scale cloud environments built out of Raspberry Pis running Kubernetes.
 
 ### Social
 * Twitter - [@phennex](https://twitter.com/phennex)
