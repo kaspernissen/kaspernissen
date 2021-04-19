@@ -11,13 +11,13 @@ Feel free to reach out if you have an inquiry.
 
 ### Upcoming
 
+...
 
+### Past
 **[Shifting Security Left While Building A Cloud Native Bank](https://nordicitsecurity.com/)**   
 _Nordic IT Security Conference - The Financial Institutions Edition_  
 Date: April 15-16 2021 
 
-
-### Past
 **[Shifting Security Left While Building A Cloud Native Bank](https://www.thedevopsconference.com/speakers#kasper+nissen)**   
 _The DevOps Conference 2021_  
 Date: March 23rd 2021
