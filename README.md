@@ -16,22 +16,22 @@ Feel free to reach out if you have an inquiry.
 ### Past
 **[Moving from Day 1 to Day 2 Operations | Damian Marquez and Kasper Nissen](https://www.getambassador.io/dev-house/)**   
 _Dev House_   
-Date: October 13 2021
+Date: October 13 2021  
 📺 [Recording](https://www.youtube.com/watch?v=NrZw23zLsqw)
 
 **[Shifting Security Left While Building A Cloud Native Bank](https://snyk.io/video/shifting-security-left-while-building-cloud-native-bank/)**   
 _SnykCon_  
-Date: October 5 2021
+Date: October 5 2021  
 📺 [Recording](https://www.youtube.com/watch?v=p6oEZEXA5m8)
 
 **[Shifting Security Left While Building A Cloud Native Bank](https://nordicitsecurity.com/)**   
 _Nordic IT Security Conference - The Financial Institutions Edition_  
-Date: April 15-16 2021
+Date: April 15-16 2021  
 📺 [Recording](https://www.youtube.com/watch?v=7vxFzzc8rB0)
 
 **[Shifting Security Left While Building A Cloud Native Bank](https://www.thedevopsconference.com/speakers#kasper+nissen)**   
 _The DevOps Conference 2021_  
-Date: March 23rd 2021
+Date: March 23rd 2021  
 📺 [Recording](https://www.eficode.com/videos?video_name=shifting+security+left&topic=show-all&type=show-all&__hstc=248255512.c0438610bab6c6dd05d5909b36546a2a.1636353781799.1636353781799.1636353781799.1&__hssc=248255512.2.1636353781800&__hsfp=783548587#videolisting)
 
 **[Humio workshop - demo session](https://www.humio.com/advanced-log-management-course-strategies-techniques-and-tactics)**   
