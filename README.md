@@ -14,6 +14,8 @@ Feel free to reach out if you have an inquiry.
 ...
 
 ### Past
+
+#### 2021
 **[Moving from Day 1 to Day 2 Operations | Damian Marquez and Kasper Nissen](https://www.getambassador.io/dev-house/)**   
 _Dev House_   
 Date: October 13 2021  
@@ -48,6 +50,8 @@ _Cloud Native Nordics Virtual Event_
 Date: February 18th 2021  
 📺  [Recording](https://youtu.be/BI2gHB0huD8)
 
+#### 2020
+
 **[Panel: CNCF Ambassadors: Building the Cloud Native Community](https://kccnceu20.sched.com/event/aDjR/panel-cncf-ambassadors-building-the-cloud-native-community-ihor-dvoretskyi-cncf-kasper-nissen-lunar-alison-dowdney-weaveworks-jessica-andersson-meltwater-saiyam-pathak) –  Ihor Dvoretskyi (CNCF), Kasper Nissen (Lunar), Alison Dowdney (Weaveworks), Jessica Andersson (Meltwater) & Saiyam Pathak**   
 _CloudNativeCon+KubeCon EU Virtual 2020_  
 Date: August 18th 2020  
@@ -55,9 +59,8 @@ Date: August 18th 2020
 
 **[Panel: End User Community Adoption of Cloud Native Principles & Lessons Learned](https://kccnceu20.sched.com/event/ZeqU/panel-end-user-community-adoption-of-cloud-native-principles-lessons-learned-ken-owens-mastercard-lee-mills-spotify-jennifer-strejevitch-conde-nast-kasper-nissen-lunar-cheryl-hung-cloud-native-computing-foundation) - Ken Owens (Mastercard), Lee Mills (Spotify), Jennifer Strejevitch (Condé Nast), Kasper Nissen (Lunar), & Cheryl Hung (Cloud Native Computing Foundation)**  
 _CloudNativeCon+KubeCon EU Virtual 2020_    
-Date: August 20th  
+Date: August 20th 2020  
 📺  [Recording](https://youtu.be/sAiOqSmN-B0)
-
 
 **[Tech Talks: Introduction to GitOps & GitOps Toolkit (moderator)](https://www.meetup.com/Cloud-Native-Aarhus/events/271346017/)**  
 _Cloud Native Nordics virtual event_  
@@ -78,6 +81,8 @@ Date: June 10, 2020
 _Cloud Native Nordics virtual event_  
 Date: March 26, 2020  
 📺  [Recording](https://youtu.be/J0f28fq4aS0)
+
+#### 2019
 
 **GitOps: Operation by Pull Request**  
 _[Cloud Native Copenhagen](https://www.meetup.com/Cloud-Native-Copenhagen/events/266225732/), Cloud Native Aalborg, Cloud Native Aarhus meetups_  
@@ -101,6 +106,8 @@ _ContainerDays Hamburg 2019_
 _DevOpsDaysCPH, Copenhagen_  
 **Date:** April 3, 2019
 
+#### 2018 
+
 **[Building a Fintech Startup on Cloud Native Technology](https://oftf18.sched.com/event/G4Mr?iframe=no)**  
 _Open Fintech Forum 2018, New York City_  
 **Date:** October 11, 2018
@@ -108,6 +115,8 @@ _Open Fintech Forum 2018, New York City_
 **[A tale of 1,5 years with Cloud Native Technologies at Lunar Way](https://www.meetup.com/GOTO-Nights-CPH/events/252461866/)**  
 _GOTO Night CPH_  
 **Date:** August 29, 2018
+
+#### 2017
 
 **[Lunar Way's journey towards Cloud Native utopia](https://gotocph.com/2017/sessions/237)**  
 _GOTO Copenhagen_  
@@ -119,6 +128,8 @@ _CloudNative London @skillsmatter_
 
 **Lunar Way and the Cloud Native "stack"**  
 _Cloud Native Aarhus_
+
+#### 2016 
 
 **Container Orchestration on AWS**  
 _AWS Meetup Group Aarhus_
