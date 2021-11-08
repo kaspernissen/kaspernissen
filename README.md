@@ -7,7 +7,7 @@ Feel free to reach out if you have an inquiry.
 📺 YouTube playlist: [link](https://www.youtube.com/playlist?list=PL5T4q56AEyfVPQUu4R6ESZfIT-gq8AYw1)
 
 
-## Activities
+## Speaking Activities
 
 ### Upcoming
 
@@ -79,10 +79,6 @@ _Cloud Native Nordics virtual event_
 Date: March 26, 2020  
 📺  [Recording](https://youtu.be/J0f28fq4aS0)
 
-**[GitOps med Kasper Nissen (in danish)](https://nine.dk/podcast/gitops-med-kasper-nissen/)**  
-_Let's start at @Nine Podcast_   
-📺  [Recording](https://youtu.be/7YOnK0N39Bw)
-
 **GitOps: Operation by Pull Request**  
 _[Cloud Native Copenhagen](https://www.meetup.com/Cloud-Native-Copenhagen/events/266225732/), Cloud Native Aalborg, Cloud Native Aarhus meetups_  
 Date: December 10, 11, 18
@@ -133,14 +129,43 @@ _Code:U Automation Nigth Aarhus_
 **Software Is eating the world**  
 _IT Minds Mindblown_
 
+**Google Cloud Platform and Kubernetes**  
+_Google Developer Group Aarhus_
+
+## Podcasts
+
+**[Kasper Nissen on GitOps, Developer Onboarding, and DevEx Freedom and Responsibility](https://soundcloud.com/ambassador-labs/s2e02-kasper-nissen-on-gitops)**  
+_Ambassador Labs Podcast S02E02_  
+**Date:** July 27, 2021  
+💿  [Recording](https://soundcloud.com/ambassador-labs/s2e02-kasper-nissen-on-gitops)
+
+**[Humio at Lunar focus on humio-operator](https://www.humio.com/whats-new/podcasts/episode-38-humio-at-lunar-with-kasper-nissen/)**  
+_The Hoot - Episode 38_
+**Date:** November 20, 2020  
+💿  [Recording](https://www.humio.com/whats-new/podcasts/episode-38-humio-at-lunar-with-kasper-nissen/)
+
+**[Humio at Lunar with Kasper Nissen](https://www.humio.com/whats-new/blog/episode-32-humio-at-lunar-with-kasper-nissen/)**  
+_The Hoot - Episode 32_  
+**Date:** July 17, 2020   
+💿  [Recording](https://www.humio.com/whats-new/podcasts/the-hoot-episode-32-humio-at-lunar-with-kasper-nissen/)
+
+
+**[GitOps med Kasper Nissen (in danish)](https://nine.dk/podcast/gitops-med-kasper-nissen/)**  
+_Let's start at @Nine Podcast_   
+💿  [Recording](https://youtu.be/7YOnK0N39Bw)
 
 **[KubeCloud: Tangible Cloud Computing with Kasper Nissen and Martin Jensen](https://softwareengineeringdaily.com/2016/07/03/kubecloud-tangible-cloud-computing-with-kasper-nissen-and-martin-jensen/)**  
 _Software Engineering Daily Podcast_  
 **Date:** July 3, 2016  
 💿  [Recording](https://softwareengineeringdaily.com/2016/07/03/kubecloud-tangible-cloud-computing-with-kasper-nissen-and-martin-jensen/)
 
-**Google Cloud Platform and Kubernetes**  
-_Google Developer Group Aarhus_
+## Featured blog posts
+- **[Handling rapid growth with Backstage](https://roadie.io/case-studies/lunar-backstage-adoption/)**
+- **[Lessons from the K8s Vanguard: Invest in Onboarding, Freedom & Responsibility, and Integrated Tooling](https://www.getambassador.io/developer-control-plane/dcp-insights-kasper-nissen-from-lunar/)**
+- **[Snyk at Lunar](https://snyk.io/case-studies/lunar/)**
+- **[Nordic bank fights money launderers with log analytics](https://searchitoperations.techtarget.com/news/252498247/Nordic-bank-fights-money-launderers-with-log-analytics)**
+- **[Humio at Lunar](https://www.humio.com/customers/humio-at-lunar/)**
+
 
 ## Bio
 
