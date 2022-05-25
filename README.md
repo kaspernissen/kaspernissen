@@ -15,6 +15,19 @@ Feel free to reach out if you have an inquiry.
 
 ### Past
 
+#### 2022
+**[Linkerd End User Panel: Case Studies from Production - Catherine Paganini, Buoyant; Kasper Nissen, Lunar; Fredrik Klingenberg, Aurum AS; Eli Goldberg, Salt Security; Christian Hüning, Finleap Connect](https://kccnceu2022.sched.com/event/ytsZ)**
+_CloudNativeCon+KubeCon Europe 2022, Valencia, Spain_
+Date: May 20 2022
+📺 [Recording](not published yet)
+
+
+**[Breaking the Multi-Cloud Barrier in a regulated industry](https://devopsdays.org/events/2022-aarhus/program/kasper-nissen)**
+_DevOpsDays Aarhus_
+Date: April 27 2022
+📺 [Recording](https://www.youtube.com/watch?v=nos6rJsLLZI)
+
+
 #### 2021
 **[Moving from Day 1 to Day 2 Operations | Damian Marquez and Kasper Nissen](https://www.getambassador.io/dev-house/)**   
 _Dev House_   
