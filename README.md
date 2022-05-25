@@ -16,15 +16,15 @@ Feel free to reach out if you have an inquiry.
 ### Past
 
 #### 2022
-**[Linkerd End User Panel: Case Studies from Production - Catherine Paganini, Buoyant; Kasper Nissen, Lunar; Fredrik Klingenberg, Aurum AS; Eli Goldberg, Salt Security; Christian Hüning, Finleap Connect](https://kccnceu2022.sched.com/event/ytsZ)**
-_CloudNativeCon+KubeCon Europe 2022, Valencia, Spain_
-Date: May 20 2022
+**[Linkerd End User Panel: Case Studies from Production - Catherine Paganini, Buoyant; Kasper Nissen, Lunar; Fredrik Klingenberg, Aurum AS; Eli Goldberg, Salt Security; Christian Hüning, Finleap Connect](https://kccnceu2022.sched.com/event/ytsZ)**  
+_CloudNativeCon+KubeCon Europe 2022, Valencia, Spain_  
+Date: May 20 2022  
 📺 [Recording](not published yet)
 
 
-**[Breaking the Multi-Cloud Barrier in a regulated industry](https://devopsdays.org/events/2022-aarhus/program/kasper-nissen)**
-_DevOpsDays Aarhus_
-Date: April 27 2022
+**[Breaking the Multi-Cloud Barrier in a regulated industry](https://devopsdays.org/events/2022-aarhus/program/kasper-nissen)**  
+_DevOpsDays Aarhus_  
+Date: April 27 2022  
 📺 [Recording](https://www.youtube.com/watch?v=nos6rJsLLZI)
 
 
@@ -184,6 +184,7 @@ _Software Engineering Daily Podcast_
 💿  [Recording](https://softwareengineeringdaily.com/2016/07/03/kubecloud-tangible-cloud-computing-with-kasper-nissen-and-martin-jensen/)
 
 ## Featured blog posts
+- **[Lunar Bank Uses GitOps to Standardize Workflows and Enhance the Developer Experience](https://www.weave.works/blog/lunar-bank-uses-gitops-to-standardize-workflows-and-enhance-the-developer-experience)**
 - **[Handling rapid growth with Backstage](https://roadie.io/case-studies/lunar-backstage-adoption/)**
 - **[Lessons from the K8s Vanguard: Invest in Onboarding, Freedom & Responsibility, and Integrated Tooling](https://www.getambassador.io/developer-control-plane/dcp-insights-kasper-nissen-from-lunar/)**
 - **[Snyk at Lunar](https://snyk.io/case-studies/lunar/)**
