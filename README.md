@@ -158,6 +158,11 @@ _Google Developer Group Aarhus_
 
 ## Podcasts
 
+**[Lunar Uses GitOps to Standardize Workflows and Enhance the Developer Experience](https://soundcloud.com/user-718131608/lunar-bank-uses-gitops-to-standardize-workflows-and-enhance-the-developer-experience)**  
+_Art of Modern Ops_  
+**Date:** May 23, 2022  
+💿  [Recording](https://soundcloud.com/user-718131608/lunar-bank-uses-gitops-to-standardize-workflows-and-enhance-the-developer-experience)
+
 **[Kasper Nissen on GitOps, Developer Onboarding, and DevEx Freedom and Responsibility](https://soundcloud.com/ambassador-labs/s2e02-kasper-nissen-on-gitops)**  
 _Ambassador Labs Podcast S02E02_  
 **Date:** July 27, 2021  
