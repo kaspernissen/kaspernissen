@@ -158,6 +158,11 @@ _Google Developer Group Aarhus_
 
 ## Podcasts
 
+**[Garden interviews Kasper Nissen](https://www.youtube.com/watch?v=fVEazWYPP_s)**  
+_Garden YouTube_  
+**Date:** June 8, 2022   
+💿 [Recording](https://www.youtube.com/watch?v=fVEazWYPP_s)
+
 **[Lunar Uses GitOps to Standardize Workflows and Enhance the Developer Experience](https://soundcloud.com/user-718131608/lunar-bank-uses-gitops-to-standardize-workflows-and-enhance-the-developer-experience)**  
 _Art of Modern Ops_  
 **Date:** May 23, 2022  
@@ -189,12 +194,14 @@ _Software Engineering Daily Podcast_
 💿  [Recording](https://softwareengineeringdaily.com/2016/07/03/kubecloud-tangible-cloud-computing-with-kasper-nissen-and-martin-jensen/)
 
 ## Featured blog posts
-- **[Lunar Bank Uses GitOps to Standardize Workflows and Enhance the Developer Experience](https://www.weave.works/blog/lunar-bank-uses-gitops-to-standardize-workflows-and-enhance-the-developer-experience)**
-- **[Handling rapid growth with Backstage](https://roadie.io/case-studies/lunar-backstage-adoption/)**
-- **[Lessons from the K8s Vanguard: Invest in Onboarding, Freedom & Responsibility, and Integrated Tooling](https://www.getambassador.io/developer-control-plane/dcp-insights-kasper-nissen-from-lunar/)**
-- **[Snyk at Lunar](https://snyk.io/case-studies/lunar/)**
-- **[Nordic bank fights money launderers with log analytics](https://searchitoperations.techtarget.com/news/252498247/Nordic-bank-fights-money-launderers-with-log-analytics)**
-- **[Humio at Lunar](https://www.humio.com/customers/humio-at-lunar/)**
+- **[Breaking the multi-cloud barrier in a regulated industry](https://www.cncf.io/blog/2022/06/09/breaking-the-multi-cloud-barrier-in-a-regulated-industry/)** (CNCF End User Blog Post)
+- **[Kubernetes multi-cluster users tap service mesh alternatives](https://www.linkedin.com/feed/update/urn:li:activity:6938216839244091392/)** (TechTarget)
+- **[Lunar Bank Uses GitOps to Standardize Workflows and Enhance the Developer Experience](https://www.weave.works/blog/lunar-bank-uses-gitops-to-standardize-workflows-and-enhance-the-developer-experience)** (Weaveworks blog)
+- **[Handling rapid growth with Backstage](https://roadie.io/case-studies/lunar-backstage-adoption/)** (Roadie.io)
+- **[Lessons from the K8s Vanguard: Invest in Onboarding, Freedom & Responsibility, and Integrated Tooling](https://www.getambassador.io/developer-control-plane/dcp-insights-kasper-nissen-from-lunar/)** (Ambassador Labs)
+- **[Snyk at Lunar](https://snyk.io/case-studies/lunar/)** (Snyk)
+- **[Nordic bank fights money launderers with log analytics](https://searchitoperations.techtarget.com/news/252498247/Nordic-bank-fights-money-launderers-with-log-analytics)** (Tech Target)
+- **[Humio at Lunar](https://www.humio.com/customers/humio-at-lunar/)** (Humio)
 
 
 ## Bio
