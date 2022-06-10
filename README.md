@@ -19,7 +19,7 @@ Feel free to reach out if you have an inquiry.
 **[Linkerd End User Panel: Case Studies from Production - Catherine Paganini, Buoyant; Kasper Nissen, Lunar; Fredrik Klingenberg, Aurum AS; Eli Goldberg, Salt Security; Christian Hüning, Finleap Connect](https://kccnceu2022.sched.com/event/ytsZ)**  
 _CloudNativeCon+KubeCon Europe 2022, Valencia, Spain_  
 Date: May 20 2022  
-📺 [Recording](not published yet)
+📺 [Recording](https://youtu.be/_DbZ6SFdY1g)
 
 
 **[Breaking the Multi-Cloud Barrier in a regulated industry](https://devopsdays.org/events/2022-aarhus/program/kasper-nissen)**  
