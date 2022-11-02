@@ -16,6 +16,11 @@ Feel free to reach out if you have an inquiry.
 ### Past
 
 #### 2022
+**[Building a Scalable, Compliant, Multi-Cloud Bank with a Service Mesh](https://sched.co/1AzsN)**  
+_ServiceMeshCon North America 2022, Detroit, USA_  
+Date: October 25 2022  
+📺 [Recording](https://youtu.be/JcBBHKHpOyU)
+
 **[Linkerd End User Panel: Case Studies from Production - Catherine Paganini, Buoyant; Kasper Nissen, Lunar; Fredrik Klingenberg, Aurum AS; Eli Goldberg, Salt Security; Christian Hüning, Finleap Connect](https://kccnceu2022.sched.com/event/ytsZ)**  
 _CloudNativeCon+KubeCon Europe 2022, Valencia, Spain_  
 Date: May 20 2022  
