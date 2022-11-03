@@ -199,6 +199,9 @@ _Software Engineering Daily Podcast_
 💿  [Recording](https://softwareengineeringdaily.com/2016/07/03/kubecloud-tangible-cloud-computing-with-kasper-nissen-and-martin-jensen/)
 
 ## Featured blog posts
+- **[Fresh crop of IT automation tools targets platform engineers](https://www.techtarget.com/searchitoperations/news/252526842/Fresh-crop-of-IT-automation-tools-targets-platform-engineers)** (TechTarget)
+- **[CloudNativeCon+KubeCon North America Recap](https://tech.lunar.app/blog/kubecon-na-2022)** (Lunar Tech Blog)
+- **[Sidecarless service mesh: Fad or the future?](https://www.techtarget.com/searchitoperations/news/252526651/Sidecarless-service-mesh-fad-or-the-future)** (TechTarget)
 - **[Breaking the multi-cloud barrier in a regulated industry](https://www.cncf.io/blog/2022/06/09/breaking-the-multi-cloud-barrier-in-a-regulated-industry/)** (CNCF End User Blog Post)
 - **[Kubernetes multi-cluster users tap service mesh alternatives](https://www.linkedin.com/feed/update/urn:li:activity:6938216839244091392/)** (TechTarget)
 - **[Lunar Bank Uses GitOps to Standardize Workflows and Enhance the Developer Experience](https://www.weave.works/blog/lunar-bank-uses-gitops-to-standardize-workflows-and-enhance-the-developer-experience)** (Weaveworks blog)
