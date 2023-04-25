@@ -15,6 +15,19 @@ Feel free to reach out if you have an inquiry.
 
 ### Past
 
+#### 2023
+
+**[Paved Paths Leading the Way to Compliance - Kasper Borg Nissen & Brian Nielsen, Lunar](https://sched.co/1HyPW)**  
+_CloudNativeCon+KubeCon, Europe 2023, Amsterdam_  
+Date: April 21 2023  
+📺 [Recording](coming soon)
+
+**[Keynote: Cappucci-Know: Percolating EU End User Insights in the Cloud Native Café - Moderated by Taylor Dolezal](https://sched.co/1HyPW)**  
+_CloudNativeCon+KubeCon, Europe 2023, Amsterdam_  
+Date: April 19 2023  
+📺 [Recording](coming soon)
+
+
 #### 2022
 **[Building a Scalable, Compliant, Multi-Cloud Bank with a Service Mesh](https://sched.co/1AzsN)**  
 _ServiceMeshCon North America 2022, Detroit, USA_  
@@ -162,6 +175,11 @@ _IT Minds Mindblown_
 _Google Developer Group Aarhus_
 
 ## Podcasts
+
+**[Driving Adoption of your Backstage IDP](https://www.cncf.io/online-programs/cncf-on-demand-webinar-driving-adoption-of-your-backstage-idp/)**  
+_CNCF On-Demand Webinar_  
+**Date:** March 30 2023  
+💿 [Recording](https://www.youtube.com/watch?v=TZ6-SpoFVeY)
 
 **[Garden interviews Kasper Nissen](https://www.youtube.com/watch?v=fVEazWYPP_s)**  
 _Garden YouTube_  
