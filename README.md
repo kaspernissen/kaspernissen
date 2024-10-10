@@ -11,21 +11,35 @@ Feel free to reach out if you have an inquiry.
 
 ### Upcoming
 
-...
+**[Keynote: Paving the Way for AI Through Platform Engineering](https://sched.co/1iCP1)**
+_CloudNativeCon+KubeCon, North America 2024, Salt Lake City_
+Date: November 13 2024
 
 ### Past
 
+#### 2024
+
+**[Keynote: Unity in Diversity: A Decade of Inclusive Growth in the Cloud Native Community](https://sched.co/1YhKV)**  
+_CloudNativeCon+KubeCon, Europe 2024, Paris_  
+Date: March 22 2024  
+📺 [Recording](https://youtu.be/vwZANXuYdRI?si=XC7ujk2vdOdLjj2z)
+
 #### 2023
+
+**[Panel: A Front Row Seat to Backstage Adoption](https://sched.co/1Rj2k)**  
+_BackstageCon North America 2023, Chicago  
+Date: November 6 2023  
+📺 [Recording](https://youtu.be/Iti5glzYOG8?si=7KlR5EWLbPsQgQdI)
 
 **[Paved Paths Leading the Way to Compliance - Kasper Borg Nissen & Brian Nielsen, Lunar](https://sched.co/1HyPW)**  
 _CloudNativeCon+KubeCon, Europe 2023, Amsterdam_  
 Date: April 21 2023  
-📺 [Recording](coming soon)
+📺 [Recording](https://youtu.be/6T3Mf6pdg7E?si=MDokvnnsBSrXo4X4)
 
 **[Keynote: Cappucci-Know: Percolating EU End User Insights in the Cloud Native Café - Moderated by Taylor Dolezal](https://sched.co/1HyPW)**  
 _CloudNativeCon+KubeCon, Europe 2023, Amsterdam_  
 Date: April 19 2023  
-📺 [Recording](coming soon)
+📺 [Recording](https://youtu.be/4xYH36akGSE?si=uTNLIYGO7NelXtnN)
 
 
 #### 2022
