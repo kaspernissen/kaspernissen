@@ -11,7 +11,7 @@ Feel free to reach out if you have an inquiry.
 
 ### Upcoming
 
-**[Keynote: Paving the Way for AI Through Platform Engineering](https://sched.co/1iCP1)**
+**[Keynote: Paving the Way for AI Through Platform Engineering](https://sched.co/1iCP1)**  
 _CloudNativeCon+KubeCon, North America 2024, Salt Lake City_
 Date: November 13 2024
 
