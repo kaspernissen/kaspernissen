@@ -11,13 +11,16 @@ Feel free to reach out if you have an inquiry.
 
 ### Upcoming
 
-**[Keynote: Paving the Way for AI Through Platform Engineering](https://sched.co/1iCP1)**  
-_CloudNativeCon+KubeCon, North America 2024, Salt Lake City_  
-Date: November 13 2024
+
 
 ### Past
 
 #### 2024
+
+**[Keynote: Paving the Way for AI Through Platform Engineering](https://sched.co/1iCP1)**  
+_CloudNativeCon+KubeCon, North America 2024, Salt Lake City_  
+Date: November 13 2024
+📺 [Recording](https://youtu.be/_E2Mkebe9Jg?si=La0c6P30u1mJdCNw)
 
 **[Keynote: Unity in Diversity: A Decade of Inclusive Growth in the Cloud Native Community](https://sched.co/1YhKV)**  
 _CloudNativeCon+KubeCon, Europe 2024, Paris_  
